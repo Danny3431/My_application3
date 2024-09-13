@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="sName">Nombre Usuario</string>
+    <string name="sNameUser">Ingresar Nombre</string>
+    <string name="sPass">Password</string>
+    <string name="sMail">E-mail</string>
+    <string name="sButton">Aceptar</string>
+    <string name="hintPassword">Ingrese Password</string>
+    <string name="hintEmail">Ingrese un E-mail aquí</string>
+</resources>
